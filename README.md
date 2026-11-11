@@ -13,11 +13,6 @@ Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **Typ
 
 <br />
 
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub" />
-  <img height="150" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Lenguajes más usados" />
-</div>
-
 ---
 
 ## 🛠️ Skills
