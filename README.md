@@ -11,9 +11,11 @@ Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **Typ
   - Email: [ambiorixbrison@gmail.com](mailto:ambiorixbrison@gmail.com)
   - Web: [tapihome.es](https://tapihome.es)
 
+<br />
+
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Lenguajes más usados" />
+  <img height="150" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub" />
+  <img height="150" src="https://raw.githubusercontent.com/Ambiorixvb08/Ambiorixvb08/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Lenguajes más usados" />
 </div>
 
 ---
@@ -22,8 +24,8 @@ Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **Typ
 
 <table>
   <tr>
-    <th align="left">💻 Desarrollo Web</th>
-    <th align="left">📊 Análisis de Datos</th>
+    <th align="left" width="50%">💻 Desarrollo Web</th>
+    <th align="left" width="50%">📊 Análisis de Datos</th>
   </tr>
   <tr>
     <td valign="top">
@@ -73,11 +75,13 @@ Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **Typ
 
 ## 📬 Hablemos
 
-<a href="https://linkedin.com/in/ambiorix-valdez-brison"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ambiorixbrison@gmail.com"><img src="https://img.shields.io/badge/Email-C23B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://tapihome.es"><img src="https://img.shields.io/badge/Web-1B1F2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
+<div align="center">
+  <a href="https://linkedin.com/in/ambiorix-valdez-brison"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ambiorixbrison@gmail.com"><img src="https://img.shields.io/badge/Email-C23B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tapihome.es"><img src="https://img.shields.io/badge/Web-1B1F2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
+</div>
 
----
+<br />
 
 <div align="center">
   <sub>⭐ Si te gusta mi trabajo, ¡no dudes en conectar conmigo!</sub>
