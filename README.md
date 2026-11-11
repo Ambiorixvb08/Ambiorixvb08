@@ -1,6 +1,6 @@
 # Ambiorix Valdez Brison
 
-### Desarrollador Web Full Stack · Data Analytics · Valladolid, España
+### Desarrollador Web Full Stack · Data Analytics · España
 
 Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **TypeScript**, backend con **Java** y **Python (FastAPI)**, y bases de datos **PostgreSQL**. También trabajo con análisis y visualización de datos usando **Power BI**, **Excel** y **Python**, y actualmente curso un **Máster en Data Analytics**.
 
