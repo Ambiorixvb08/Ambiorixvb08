@@ -52,6 +52,23 @@ Desarrollo aplicaciones web de principio a fin: interfaces con **React** y **Typ
 
 ---
 
+## 💼 Experiencia Profesional
+
+**Desarrollador Web Full Stack · Freelance**  
+*Valladolid, España · [Año de inicio] – Actualidad*
+
+Desarrollo de soluciones web completas para clientes, abarcando desde la interfaz hasta el backend y el análisis de datos. Trabajo directamente con clientes para entender sus necesidades y entregar productos funcionales en producción.
+
+- **Desarrollo full stack:** aplicaciones web con React + TypeScript en frontend y Java / Python (FastAPI) en backend.
+- **Bases de datos:** diseño, modelado y gestión de PostgreSQL.
+- **Análisis de datos:** automatización, tratamiento y visualización con Power BI, Excel y Python.
+- **Proyectos entregados:** webs comerciales en producción (ej. [TAPIHOME](https://tapihome.es)) y soluciones a medida para clientes.
+- **Metodología:** trato directo con el cliente, entrega iterativa y documentación.
+
+> *Parte del trabajo se desarrolla bajo acuerdos de confidencialidad, por lo que el código no es público. Puedo proporcionar referencias profesionales o fragmentos anonimizados bajo petición.*
+
+---
+
 ## 🚀 Qué hago
 
 - 🌐 Páginas web corporativas y comerciales
