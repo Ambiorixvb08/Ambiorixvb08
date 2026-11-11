@@ -1,16 +1,58 @@
-## Hi there 👋
+# Ambiorix Valdez Brison
 
-<!--
-**Ambiorixvb08/Ambiorixvb08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador web full stack · Valladolid, España
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones web de principio a fin: interfaces con React y TypeScript, APIs con Python y FastAPI, y bases de datos PostgreSQL. También trabajo con análisis y visualización de datos, y estoy cursando un máster en Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente: desarrollo web, proyectos freelance y formación en análisis de datos
+- Disponible para: oportunidades como desarrollador full stack y proyectos freelance
+- Cómo contactarme:
+  - LinkedIn: [linkedin.com/in/ambiorix-valdez-brison](https://linkedin.com/in/ambiorix-valdez-brison)
+  - Email: [ambiorixbrison@gmail.com](mailto:ambiorixbrison@gmail.com)
+  - Web: [tapihome.es](https://tapihome.es)
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ambiorixvb08&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambiorixvb08&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+## Skills
+
+<table>
+  <tr>
+    <th align="left">Lo que uso</th>
+    <th align="left">Lo que estoy aprendiendo</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="Frontend" /><br />
+      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=dark" alt="Backend y datos" /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,powerbi&theme=dark" alt="Herramientas" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /><br />
+      Análisis de datos (máster en curso)
+    </td>
+  </tr>
+</table>
+
+## Qué hago
+
+- Páginas web corporativas y comerciales
+- Interfaces y aplicaciones web
+- APIs y funcionalidades backend
+- Diseño, conexión y gestión de bases de datos
+- Automatización, tratamiento y visualización de datos
+
+## Proyectos destacados
+
+- **[hourglass](https://github.com/Ambiorixvb08/hourglass)**: proyecto final de grado desarrollado en Python.
+- **[ProyectoFinal](https://github.com/Ambiorixvb08/ProyectoFinal)**: análisis exploratorio de datos (EDA) con un dashboard en Power BI.
+- **[ProyectoEda](https://github.com/Ambiorixvb08/ProyectoEda)**: análisis de un conjunto de datos con Python en Jupyter Notebook.
+- **[TAPIHOME](https://tapihome.es)**: web comercial para un servicio de limpieza de tapicerías, enfocada en presentar los servicios, captar clientes y facilitar el contacto directo por WhatsApp.
+
+## Hablemos
+
+<a href="https://linkedin.com/in/ambiorix-valdez-brison"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ambiorixbrison@gmail.com"><img src="https://img.shields.io/badge/Email-C23B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://tapihome.es"><img src="https://img.shields.io/badge/Web-1B1F2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
